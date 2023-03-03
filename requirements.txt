@@ -11,7 +11,7 @@ websocket
 packaging
 requests
 datetime
-pyfadecolor
+pyfadecolor #not available
 requests
 selenium
 keyboard
